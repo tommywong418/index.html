@@ -9,6 +9,6 @@ GitHub: www.github.com
 <p>You can also learn me here.</p>
 <strong><h1>Education</h1></strong>
 <ul>
-        <li>2023-2027: Bachelor degree, HKU</li>
+        <li>2023-2027: Bachelor of Business Administration in Accounting and Finance, HKU</li>
         <li>2020-2023: High School</li>
 </ul>
